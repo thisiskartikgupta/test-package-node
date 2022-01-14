@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/thisiskartikgupta/test-package-node/issues"
   },
-  "homepage": "https://github.com/thisiskartikgupta/test-package-node#readme"
+  "homepage": "https://github.com/thisiskartikgupta/test-package-node#readme",
+  "publishConfig": {
+    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  }
 }
