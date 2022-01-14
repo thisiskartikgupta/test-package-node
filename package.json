@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/thisiskartikgupta/test-package-node#readme",
   "publishConfig": {
-    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+    "@thisiskartikgupta:registry": "https://npm.pkg.github.com"
   }
 }
